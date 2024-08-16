@@ -1,8 +1,8 @@
-# Plan and execute agent
+# Multi agent collaboration
 
 ## Preamble
 
-This is an adaptation of the multi collaboration agent published on [langgraph](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/multi-agent-collaboration/) to work with Anthropic Claude 3 hosted on Bedrock.
+This is an adaptation of multi agent collaboration published on [langgraph](https://langchain-ai.github.io/langgraph/tutorials/multi_agent/multi-agent-collaboration/) to work with Anthropic Claude 3 hosted on Bedrock.
 
 ## Changes
 
